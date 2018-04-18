@@ -4,6 +4,6 @@ class Backers
   def initialize(name, backed_projects = [])
 
   end
-  
+
 
 end
